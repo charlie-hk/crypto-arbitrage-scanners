@@ -19,11 +19,11 @@ They never place orders. They find, verify, log and notify.
 
 Every opportunity is re-checked by **walking the real order books** with a configurable size (e.g. $1,000), so thin top-of-book "opportunities" are filtered out.
 
-## Screenshots
+## screenshots
 
 | Cross-exchange scan | Funding scan | Telegram alert |
 |---|---|---|
-| ![cross](Screenshots/cross_scan.png) | ![funding](Screenshots/funding_scan.png) | ![telegram](Screenshots/telegram_alert.png) |
+| ![cross](screenshots/cross_scan.png) | ![funding](screenshots/funding_scan.png) | ![telegram](screenshots/telegram_alert.png) |
 
 ## Quick start
 
