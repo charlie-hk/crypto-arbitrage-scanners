@@ -23,12 +23,12 @@ Every opportunity is re-checked by **walking the real order books** with a confi
 
 | Cross-exchange scan | Funding scan | Telegram alert |
 |---|---|---|
-| ![cross](screenshots/cross_scan.png) | ![funding](screenshots/funding_scan.png) | ![telegram](screenshots/telegram_alert.png) |
+| ![cross](Screenshots/cross_scan.png) | ![funding](Screenshots/funding_scan.png) | ![telegram](Screenshots/telegram_alert.png) |
 
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/crypto-arbitrage-scanners.git
+git clone https://github.com/<charlie-hk>/crypto-arbitrage-scanners.git
 cd crypto-arbitrage-scanners
 pip install -r requirements.txt
 
@@ -99,4 +99,4 @@ For research and education. Not financial advice. Past funding rates and price g
 
 I build custom trading tools: crypto scanners and bots (ccxt, exchange APIs, Telegram), and MetaTrader 5 Expert Advisors and indicators.
 
-Contact: `<your contact here>`
+Contact: `<https://t.me/Charlie_hk1>`
