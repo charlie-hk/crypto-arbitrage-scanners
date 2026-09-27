@@ -28,7 +28,7 @@ Every opportunity is re-checked by **walking the real order books** with a confi
 ## Quick start
 
 ```bash
-git clone https://github.com/<charlie-hk>/crypto-arbitrage-scanners.git
+git clone https://github.com/charlie-hk/crypto-arbitrage-scanners.git
 cd crypto-arbitrage-scanners
 pip install -r requirements.txt
 
@@ -99,4 +99,4 @@ For research and education. Not financial advice. Past funding rates and price g
 
 I build custom trading tools: crypto scanners and bots (ccxt, exchange APIs, Telegram), and MetaTrader 5 Expert Advisors and indicators.
 
-Contact: `<https://t.me/Charlie_hk1>`
+Contact: [Telegram](https://t.me/Charlie_hk1)
