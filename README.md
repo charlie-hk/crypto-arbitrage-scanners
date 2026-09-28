@@ -4,7 +4,7 @@ Real-time scanners that look for arbitrage opportunities on **Binance, KuCoin, O
 
 They never place orders. They find, verify, log and notify.
 
-![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![ccxt](https://img.shields.io/badge/built%20with-ccxt-green) ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![ccxt](https://img.shields.io/badge/built%20with-ccxt-green) 
 
 ---
 
@@ -19,7 +19,7 @@ They never place orders. They find, verify, log and notify.
 
 Every opportunity is re-checked by **walking the real order books** with a configurable size (e.g. $1,000), so thin top-of-book "opportunities" are filtered out.
 
-## screenshots
+## Screenshots
 
 | Cross-exchange scan | Funding scan | Telegram alert |
 |---|---|---|
