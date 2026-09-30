@@ -99,4 +99,4 @@ For research and education. Not financial advice. Past funding rates and price g
 
 I build custom trading tools: crypto scanners and bots (ccxt, exchange APIs, Telegram), and MetaTrader 5 Expert Advisors and indicators.
 
-Contact: [Telegram](https://t.me/Charlie_hk1)
+Contact: Available for custom work on Upwork and Freelancer.com.
