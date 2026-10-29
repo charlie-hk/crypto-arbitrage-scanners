@@ -1,5 +1,7 @@
 # Crypto Arbitrage Scanners
 
+![Crypto Arbitrage Scanners](cover.png)
+
 Real-time scanners that look for arbitrage opportunities on **Binance, KuCoin, OKX and Bybit**, check whether they are actually executable, and send alerts to **Telegram**.
 
 They never place orders. They find, verify, log and notify.
